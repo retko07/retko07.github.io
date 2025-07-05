@@ -10,9 +10,9 @@ categories: mytest
 <ruby>訪<rt>おとず</rt></ruby>れるべき<ruby>時<rt>とき</rt></ruby>が<ruby>来<rt>き</rt></ruby>た  
 
 ## image TEST
-![imgtest](../public/img/screenshot-1.png)
+![imgtest](/public/img/screenshot-1.png)
 
-<img src="../public/img/screenshot-1.png" height="350" width="500"/>
+<img src="/public/img/screenshot-1.png" height="350" width="500"/>
 
 # Highlighter
 ### Clang
